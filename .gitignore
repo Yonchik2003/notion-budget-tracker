@@ -1,0 +1,4 @@
+.env
+last_total.txt
+__pycache__/
+*.pyc
